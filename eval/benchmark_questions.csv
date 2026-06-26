@@ -1,0 +1,4 @@
+question,category,expected_doc_type
+What does deductible mean?,policy_terms,glossary
+Is physical therapy covered?,coverage,sbc
+How do I appeal a denied claim?,appeals,appeal_page
